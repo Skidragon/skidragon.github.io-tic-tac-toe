@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+html,
+body {
+  height: 100vw;
+  width: 100vw;
+  font: 14px/1.5 sans-serif; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUVBO0VBQ0ksVUFBUztFQUNULFdBQVU7RUFDViwrQkFBc0I7VUFBdEIsdUJBQXNCLEVBQ3pCOztBQUVEOztFQUVJLGNBQWE7RUFDYixhQUFZO0VBQ1osMEJBQXlCLEVBQzVCIiwiZmlsZSI6InN0eWxlcy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAaW1wb3J0ICdiYXNlJztcblxuKiB7XG4gICAgbWFyZ2luOiAwO1xuICAgIHBhZGRpbmc6IDA7XG4gICAgYm94LXNpemluZzogYm9yZGVyLWJveDsgICAgXG59XG5cbmh0bWwsIFxuYm9keSB7XG4gICAgaGVpZ2h0OiAxMDB2dztcbiAgICB3aWR0aDogMTAwdnc7XG4gICAgZm9udDogMTRweC8xLjUgc2Fucy1zZXJpZjtcbn0iXX0= */
